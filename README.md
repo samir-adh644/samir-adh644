@@ -13,6 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samir-adh644&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samir-adh644&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Global Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=samir-adh644&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir-adh644&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
